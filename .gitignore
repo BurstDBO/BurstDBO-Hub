@@ -480,3 +480,6 @@ FodyWeavers.xsd
 /NtlLib/Shared/NtlXMLLoader/xmlparser_h.h
 /NtlLib/Shared/NtlXMLLoader/msxml2_i.c
 /NtlLib/Shared/NtlXMLLoader/msxml2_h.h
+DboClient/DragonBall/ConfigOptions.xml
+DboClient/Client/Client.rc
+DboClient/Client/efx.ico
